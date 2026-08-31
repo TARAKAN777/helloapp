@@ -8,3 +8,5 @@ def greetBlack():
     print("hello black")
 
 say_hello()
+greetWhite()
+greetBlack()
